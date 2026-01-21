@@ -2,10 +2,6 @@
 
 A dual-language project (Java & JavaScript) implementing a fully functional Blackjack engine. This project features an interactive playable mode and a high-speed "Monte Carlo" simulation mode to analyze win/loss probabilities over 10,000 hands.
 
-## 🚀 Live Demo
-**[▶ Play the Web Version Here](https://yourusername.github.io/blackjack.html)** *(Replace with your actual GitHub Pages link)*
-
----
 
 ## 📋 Features
 
