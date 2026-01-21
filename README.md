@@ -26,11 +26,3 @@ A dual-language project (Java & JavaScript) implementing a fully functional Blac
 | **Frontend** | **HTML5 / CSS3** | Responsive dark-mode UI to match the developer portfolio. |
 
 ---
-
-## 💻 How to Run (Java Version)
-
-To run the command-line analysis tool locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yourusername/java-blackjack-sim.git](https://github.com/yourusername/java-blackjack-sim.git)
